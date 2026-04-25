@@ -1,6 +1,6 @@
-# DeepSeek-V4 思维框架蒸馏版
+# pangu-deepseek-v4-skill
 
-基于 DeepSeek-V4 Technical Report 完整蒸馏的 AI 技能（Skill），当用户询问 DeepSeek-V4 相关问题时自动触发。
+基于 DeepSeek-V4 Technical Report 完整蒸馏的 AI 技能（Skill），有什么疑问就问它。
 
 ## 简介
 
