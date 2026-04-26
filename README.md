@@ -1,4 +1,4 @@
-# pangu-deepseek-v4-skill
+# pangu-deepseek-v4
 
 基于 DeepSeek-V4 Technical Report 完整蒸馏的 AI 技能（Skill），有什么疑问就问它。
 
@@ -27,14 +27,14 @@
 
 ```bash
 
-npx skills add wukongnotnull/pangu-deepseek-v4-skill
+npx skills add wukongnotnull/pangu-deepseek-v4
 
 ```
 
 ### 方式二：文科生使用对话方式安装
 ```bash
 
-帮我安装该skill： https://github.com/wukongnotnull/pangu-deepseek-v4-skill
+帮我安装该skill： https://github.com/wukongnotnull/pangu-deepseek-v4
 
 ```
 
@@ -85,7 +85,7 @@ FP8 训练
 ## 文件结构
 
 ```
-pangu-deepseek-v4-skill/
+pangu-deepseek-v4/
 ├── SKILL.md          # Skill 定义文件（包含 YAML frontmatter）
 ├── README.md         # 本文件
 └── references/

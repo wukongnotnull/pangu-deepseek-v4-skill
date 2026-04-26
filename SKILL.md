@@ -1,5 +1,5 @@
 ---
-name: pangu-deepseek-v4-distill
+name: pangu-deepseek-v4
 description: DeepSeek-V4 思维框架蒸馏，关于模型架构、训练成本、MoE、MLA、MTP、GRPO 等技术问题
 triggers:
   - deepseek v4

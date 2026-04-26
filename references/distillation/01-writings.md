@@ -5,7 +5,7 @@
 ### 官方技术报告
 - **DeepSeek-V4 Technical Report** (2025年5月)
   - 58页，涵盖架构、训练、评测全貌
-  - 链接：本地PDF `/Users/wukong/Downloads/deepseek-report/DeepSeek_V4.pdf`
+  - 链接：本地PDF `../DeepSeek_V4.pdf`
   - 核心结论：266万美元算力，接近GPT-4o/Claude-3.5-Sonnet水平
 
 ### 开源权重
